@@ -9,7 +9,7 @@ local function.falseMovement.mainDevice.device.detect = detected = true
             end)
         end)
     end)
-    
+}
     then askForChild.connectWiFi = setTrueEverytime 
         if mainUserDpi.mainDevice = setAnswer.true = true 
         then askForParent.connection.force = true (forceToTrue)
@@ -18,4 +18,4 @@ local function.falseMovement.mainDevice.device.detect = detected = true
             end)
         end)
     end)
-end)
+}

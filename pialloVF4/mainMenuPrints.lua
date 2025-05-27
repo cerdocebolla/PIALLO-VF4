@@ -6,11 +6,11 @@ end)
 
 if 
 local findCommand = pialloSetRun = false 
-then print ("Link")
-    print ("Find Linking")
+then print ("Activate PIALLO")
+    print ("Find Source")
     print ("Settings")
     print ("Quit PIALLO")
-    print ("Re-run PIALLO")
+    print ("Restart PIALLO")
 
     if clickDetector.mainDevice.detectMovement.click then askForParent = touchScreen.force forceToTrue (setTrueEverytime)
         then askPermission.mainMenu.mainDevice.force = true 
